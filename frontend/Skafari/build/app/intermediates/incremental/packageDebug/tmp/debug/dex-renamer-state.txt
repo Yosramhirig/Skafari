@@ -1,0 +1,4 @@
+#Tue May 09 13:44:06 EET 2023
+base.0=C\:\\Users\\WIN 10\\AndroidStudioProjects\\Skafari\\frontend\\Skafari\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

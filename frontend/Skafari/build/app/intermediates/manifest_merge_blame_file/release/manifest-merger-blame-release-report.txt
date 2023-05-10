@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.skafari"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+11-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-60
+13-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:11:19-57
+14
+15    <uses-permission android:name="android.permission.FLASHLIGHT" />
+15-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-69
+15-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:13:22-66
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:connectivity_plus] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+16-->[:connectivity_plus] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+17
+18    <application
+19        android:name="android.app.Application"
+19-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:5:9-42
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.6.0] C:\Users\WIN 10\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+21        android:icon="@mipmap/launcher_icon"
+21-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:6:9-45
+22        android:label="skafari"
+22-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:4:9-32
+23        android:largeHeap="true"
+23-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+24        android:theme="@style/Theme.AppCompat.NoActionBar" >
+24-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-59
+25        <activity
+25-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:7:9-27:20
+26            android:name="com.example.skafari.MainActivity"
+26-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:8:13-41
+27            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+27-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:12:13-163
+28            android:exported="true"
+28-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:9:13-36
+29            android:hardwareAccelerated="true"
+29-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:13:13-47
+30            android:launchMode="singleTop"
+30-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:10:13-43
+31            android:theme="@style/LaunchTheme"
+31-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:11:13-47
+32            android:windowSoftInputMode="adjustResize" >
+32-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:14:13-55
+33
+34            <!--
+35                 Specifies an Android theme to apply to this Activity as soon as
+36                 the Android process has started. This theme is visible to the user
+37                 while the Flutter UI initializes. After that, this theme continues
+38                 to determine the Window background behind the Flutter UI.
+39            -->
+40            <meta-data
+40-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:19:13-22:17
+41                android:name="io.flutter.embedding.android.NormalTheme"
+41-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:20:15-70
+42                android:resource="@style/NormalTheme" />
+42-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:21:15-52
+43
+44            <intent-filter>
+44-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:23:13-26:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:24:17-68
+45-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:24:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:25:17-76
+47-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:25:27-74
+48            </intent-filter>
+49        </activity>
+50        <!--
+51             Don't delete the meta-data below.
+52             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+53        -->
+54        <meta-data
+54-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:30:9-32:33
+55            android:name="flutterEmbedding"
+55-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:31:13-44
+56            android:value="2" />
+56-->C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\android\app\src\main\AndroidManifest.xml:32:13-30
+57
+58        <activity android:name="com.amolg.flutterbarcodescanner.BarcodeCaptureActivity" />
+58-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-91
+58-->[:flutter_barcode_scanner] C:\Users\WIN 10\AndroidStudioProjects\Skafari\frontend\Skafari\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:18:19-88
+59
+60        <uses-library
+60-->[androidx.window:window:1.0.0-beta04] C:\Users\WIN 10\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+61            android:name="androidx.window.extensions"
+61-->[androidx.window:window:1.0.0-beta04] C:\Users\WIN 10\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+62            android:required="false" />
+62-->[androidx.window:window:1.0.0-beta04] C:\Users\WIN 10\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+63        <uses-library
+63-->[androidx.window:window:1.0.0-beta04] C:\Users\WIN 10\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+64            android:name="androidx.window.sidecar"
+64-->[androidx.window:window:1.0.0-beta04] C:\Users\WIN 10\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+65            android:required="false" />
+65-->[androidx.window:window:1.0.0-beta04] C:\Users\WIN 10\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+66
+67        <activity
+67-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\WIN 10\.gradle\caches\transforms-3\0da5ac263212bed7e0e40ebb001210dc\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+68            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+68-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\WIN 10\.gradle\caches\transforms-3\0da5ac263212bed7e0e40ebb001210dc\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+69            android:exported="false"
+69-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\WIN 10\.gradle\caches\transforms-3\0da5ac263212bed7e0e40ebb001210dc\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+70            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+70-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\WIN 10\.gradle\caches\transforms-3\0da5ac263212bed7e0e40ebb001210dc\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+71
+72        <meta-data
+72-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\WIN 10\.gradle\caches\transforms-3\1cd4912f6a8b84d55024d8f77dbf2c46\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+73            android:name="com.google.android.gms.version"
+73-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\WIN 10\.gradle\caches\transforms-3\1cd4912f6a8b84d55024d8f77dbf2c46\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+74            android:value="@integer/google_play_services_version" />
+74-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\WIN 10\.gradle\caches\transforms-3\1cd4912f6a8b84d55024d8f77dbf2c46\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+75    </application>
+76
+77</manifest>

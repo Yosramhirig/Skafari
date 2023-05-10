@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable-xhdpi_splash.png.flat",
+        "source": "com.example.skafari.app-main-17:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.example.skafari.app-main-17:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable-v21_background.png.flat",
+        "source": "com.example.skafari.app-main-17:/drawable-v21/background.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.example.skafari.app-main-17:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable-mdpi_splash.png.flat",
+        "source": "com.example.skafari.app-main-17:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable_background.png.flat",
+        "source": "com.example.skafari.app-main-17:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable-hdpi_splash.png.flat",
+        "source": "com.example.skafari.app-main-17:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable_launch_background.xml.flat",
+        "source": "com.example.skafari.app-main-17:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.skafari.app-main-17:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.skafari.app-merged_res-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.skafari.app-main-17:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed May 10 16:53:53 EET 2023
+base.0=C\:\\Users\\WIN 10\\AndroidStudioProjects\\Skafari\\frontend\\Skafari\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
