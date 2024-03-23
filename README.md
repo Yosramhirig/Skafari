@@ -1,5 +1,5 @@
 # Skafari
-Skafari is a Flutter mobile application that uses a phone scanner to look up information on a product from the OpenFoodFact API. The app displays the product's ingredients, brand name, and whether the product is halal or not. Additionally, Skafari connects to a Kator server with different stores and shows if the product is available in these stores. It also offers the ability to add any product the user is planning to purchase to their grocery list and they can check it off or delete it once they've completed your purchase.
+Skafari is a Flutter mobile application that uses a phone scanner to look up information on a product from the OpenFoodFact API. The app displays the product's ingredients, brand name, and whether the product is halal or not. Additionally, Skafari connects to a Kator server with different stores and shows if the product is available in these stores. It also offers the ability to add any product the user is planning to purchase to their grocery list and they can check it off or delete it once they've completed their purchase.
 ## Features
 * Scan a product barcode to get its information.
 * Display product ingredients, brand name, and halal status.
